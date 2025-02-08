@@ -6,7 +6,7 @@ Chamo-me Luiz Otávio Rodrigues, tenho 19 anos e sou natural de Petrolina, Perna
 
 Conheça meu [Portfólio](https://luizrodrigues.netlify.app) e meu projeto [Minerva](https://minerva-gamma.vercel.app/).
 
---
+---
 
 ## 🤖 Linguagens e Tecnologias
 
