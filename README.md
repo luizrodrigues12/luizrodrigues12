@@ -84,10 +84,9 @@ Chamo-me Luiz Otávio Rodrigues, tenho 19 anos e sou natural de Petrolina, Perna
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
+<br/>
+<br/>
 ---
-<br/>
-<br/>
-
 
 ## 🙋‍♂️ Conecte-se Comigo
 Linkedin: [https://www.linkedin.com/in/luizrdgs/](https://www.linkedin.com/in/luizrdgs/)
