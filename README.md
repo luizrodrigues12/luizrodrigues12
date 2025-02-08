@@ -8,7 +8,7 @@ Conheça meu [Portfólio](https://luizrodrigues.netlify.app) e meu projeto [Mine
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 
 <img 
