@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Chamo-me Luiz Rodrigues, tenho 19 anos e sou natural de Petrolina, Pernambuco. Comecei a estudar Desenvolvimento de Software em 2022, enquanto ainda estava no ensino médio. Atualmente, desenvolvo alguns projetos próprios e estou cursando Engenharia de Software. Utilizo Javascript como linguagem e ReactJS como framework principal. 
+Chamo-me Luiz Rodrigues, tenho 19 anos e sou natural de Petrolina - PE. Comecei a estudar Desenvolvimento de Software em 2022, enquanto ainda estava no ensino médio. Atualmente, desenvolvo alguns projetos próprios e estou cursando Engenharia de Software. Utilizo Javascript como linguagem e ReactJS como framework principal. 
 
 - Conheça meu [Portfólio](https://luizrodrigues.netlify.app)
 - Conheça meu projeto [Minerva](https://minerva-gamma.vercel.app/)
