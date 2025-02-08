@@ -84,23 +84,9 @@ Chamo-me Luiz Otávio Rodrigues, tenho 19 anos e sou natural de Petrolina, Perna
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🌐 Conecte-se Comigo
+Linkedin: "[https://www.linkedin.com/in/luizrdgs/](https://www.linkedin.com/in/luizrdgs/)"
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luizrodrigues12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+Portfólio: "[https://luizrodrigues.netlify.app](https://luizrodrigues.netlify.app)"
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrodrigues12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+Email: "[luizrodrigues090705@gmail.com](mailto:luizrodrigues090705@gmail.com)"
