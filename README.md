@@ -85,7 +85,6 @@ Chamo-me Luiz Otávio Rodrigues, tenho 19 anos e sou natural de Petrolina, Perna
 />
 
 <br/>
-<br/>
 
 ---
 
